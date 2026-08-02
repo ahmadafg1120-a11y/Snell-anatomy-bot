@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "topic": "Anatomical Position",
+    "highlight": "The standard anatomical position: body erect, face forward, arms at sides with palms facing FORWARD (supinated), feet together pointing forward.",
+    "mnemonic": "🧠 'FFFS' — Face Forward, Feet together, Supinated palms"
+  },
+  {
+    "id": 2,
+    "topic": "Body Planes",
+    "highlight": "3 major planes:\n• Sagittal — divides Left & Right\n• Coronal (Frontal) — divides Anterior & Posterior\n• Transverse (Horizontal) — divides Superior & Inferior",
+    "mnemonic": "🧠 'SCT' = Sagittal Cuts Things (Left/Right), Coronal Creates Front/Back, Transverse = Top/Bottom"
+  },
+  {
+    "id": 3,
+    "topic": "Directional Terms",
+    "highlight": "Key pairs:\n• Medial / Lateral (toward / away from midline)\n• Proximal / Distal (toward / away from origin)\n• Superficial / Deep\n• Ipsilateral / Contralateral (same / opposite side)",
+    "mnemonic": "🧠 'MPSD' — Medial-lateral, Proximal-distal, Superficial-deep"
+  },
+  {
+    "id": 4,
+    "topic": "Skin Layers",
+    "highlight": "Skin = Epidermis + Dermis\n• Epidermis: avascular, 5 layers (Stratum Basale → Corneum)\n• Dermis: vascular, contains hair follicles, sweat glands, sebaceous glands\n• Below dermis = Hypodermis (subcutaneous fat — NOT part of skin)",
+    "mnemonic": "🧠 'Come Let's Get Some Beer' = Corneum, Lucidum, Granulosum, Spinosum, Basale"
+  },
+  {
+    "id": 5,
+    "topic": "Langer's Lines",
+    "highlight": "Langer's lines (cleavage lines) = lines of skin tension running parallel to collagen fiber orientation. Surgical incisions parallel to Langer's lines heal with MINIMAL scarring.",
+    "mnemonic": "🧠 'Langer = Less scar' — Cut parallel to Langer's for best healing"
+  },
+  {
+    "id": 6,
+    "topic": "Fascia Types",
+    "highlight": "Two types:\n• Superficial fascia (hypodermis): fat + loose CT, contains cutaneous nerves & vessels\n• Deep fascia: dense CT, encloses muscles, forms compartments, sheaths, retinacula",
+    "mnemonic": "🧠 'Superficial = Soft & fatty, Deep = Dense & tough'"
+  },
+  {
+    "id": 7,
+    "topic": "Bone Types",
+    "highlight": "5 bone types by shape:\n• Long (femur), Short (carpals), Flat (skull), Irregular (vertebrae), Sesamoid (patella)\nBone = compact (cortical) + cancellous (trabecular/spongy)",
+    "mnemonic": "🧠 'LFIS+S' = Long, Flat, Irregular, Short + Sesamoid"
+  },
+  {
+    "id": 8,
+    "topic": "Bone Ossification",
+    "highlight": "Two types:\n• Endochondral ossification: bone replaces cartilage model (long bones, most of skeleton)\n• Intramembranous ossification: bone forms directly in connective tissue (flat bones of skull, clavicle)",
+    "mnemonic": "🧠 'Endo = inside cartilage, Intramembranous = in membrane (flat bones of skull & clavicle)'"
+  },
+  {
+    "id": 9,
+    "topic": "Cartilage Types",
+    "highlight": "3 types:\n• Hyaline: articular surfaces, costal cartilages, respiratory tract (most common)\n• Elastic: ear, epiglottis, larynx\n• Fibrocartilage: intervertebral discs, pubic symphysis, menisci (most compression resistant)",
+    "mnemonic": "🧠 'HEF' = Hyaline (Highly common), Elastic (Ears), Fibro (Fibrous discs)"
+  },
+  {
+    "id": 10,
+    "topic": "Joint Classification",
+    "highlight": "By structure:\n• Fibrous (sutures, syndesmosis, gomphosis)\n• Cartilaginous (synchondrosis = hyaline; symphysis = fibrocartilage)\n• Synovial (most common, freely movable)\nSynovial joint features: articular cartilage, joint cavity, synovial membrane, capsule",
+    "mnemonic": "🧠 'FCS' = Fibrous-Cartilaginous-Synovial (least to most mobile)"
+  },
+  {
+    "id": 11,
+    "topic": "Synovial Joint Types",
+    "highlight": "6 types of synovial joints:\n• Plane (intercarpal)\n• Hinge (elbow, ankle)\n• Pivot (atlantoaxial, radioulnar)\n• Condyloid (wrist, MCP)\n• Saddle (1st CMC — thumb)\n• Ball & Socket (hip, shoulder — most mobile)",
+    "mnemonic": "🧠 'Planes Have Pivots Causing Sore Balls' = Plane, Hinge, Pivot, Condyloid, Saddle, Ball & socket"
+  },
+  {
+    "id": 12,
+    "topic": "Muscle Types",
+    "highlight": "3 muscle types:\n• Skeletal (striated, voluntary)\n• Cardiac (striated, involuntary, intercalated discs)\n• Smooth (non-striated, involuntary)\nSkeletal muscle: epimysium → perimysium → endomysium",
+    "mnemonic": "🧠 'Every Person Eats' = Epimysium, Perimysium, Endomysium (outer to inner)"
+  },
+  {
+    "id": 13,
+    "topic": "Muscle Attachments",
+    "highlight": "• Origin: proximal/fixed attachment\n• Insertion: distal/mobile attachment\n• Tendon: muscle to bone (dense regular CT)\n• Aponeurosis: flat sheet-like tendon\n• Raphe: interdigitating tendons between two muscles",
+    "mnemonic": "🧠 'Origin is Old/fixed, Insertion is It that moves'"
+  },
+  {
+    "id": 14,
+    "topic": "Nervous System Division",
+    "highlight": "CNS = Brain + Spinal cord\nPNS = All nerves outside CNS\nPNS divides into:\n• Somatic NS (voluntary, skeletal muscle)\n• Autonomic NS (involuntary, viscera)\nANS = Sympathetic + Parasympathetic",
+    "mnemonic": "🧠 'CNS = Command Center, PNS = Peripheral workers (somatic + autonomic)'"
+  },
+  {
+    "id": 15,
+    "topic": "Nerve Fiber Types",
+    "highlight": "Functional components of spinal nerves:\n• GSA: General Somatic Afferent (pain, temp, touch from body)\n• GSE: General Somatic Efferent (to skeletal muscle)\n• GVA: General Visceral Afferent (from viscera)\n• GVE: General Visceral Efferent (ANS to smooth muscle/glands)",
+    "mnemonic": "🧠 'Good Students Always Earn Good Grades Very Easily' = GSA, GSE, GVA, GVE"
+  },
+  {
+    "id": 16,
+    "topic": "Spinal Nerve Formation",
+    "highlight": "Spinal nerve = Dorsal root (sensory/afferent) + Ventral root (motor/efferent)\nDorsal root ganglion contains cell bodies of sensory neurons.\nSpinal nerve immediately divides into dorsal ramus (back) and ventral ramus (limbs, anterior trunk).",
+    "mnemonic": "🧠 'DAVE' = Dorsal = Afferent, Ventral = Efferent"
+  },
+  {
+    "id": 17,
+    "topic": "Sympathetic vs Parasympathetic",
+    "highlight": "Sympathetic (Thoracolumbar T1-L2): fight or flight\n• Pre-ganglionic SHORT, post-ganglionic LONG\nParasympathetic (Craniosacral CN III,VII,IX,X + S2-4): rest & digest\n• Pre-ganglionic LONG, post-ganglionic SHORT",
+    "mnemonic": "🧠 'Sympathetic = Short pre, Parasympathetic = Short post' (opposite pre/post length)"
+  },
+  {
+    "id": 18,
+    "topic": "Sympathetic Neurotransmitters",
+    "highlight": "• Preganglionic (both SNS & PNS): Acetylcholine (nicotinic receptor)\n• SNS postganglionic: Norepinephrine (adrenergic receptor) — EXCEPT sweat glands (ACh)\n• PNS postganglionic: Acetylcholine (muscarinic receptor)",
+    "mnemonic": "🧠 'All Pre = ACh, SNS post = NE (except sweat = ACh), PNS post = ACh'"
+  },
+  {
+    "id": 19,
+    "topic": "Dermatome vs Myotome",
+    "highlight": "• Dermatome: area of skin innervated by a SINGLE spinal nerve (sensory)\n• Myotome: group of muscles innervated by a SINGLE spinal nerve (motor)\n• Adjacent dermatomes overlap → need to damage 3 consecutive levels to lose complete sensation",
+    "mnemonic": "🧠 'Derm = skin, Myo = muscle, both = one spinal nerve'"
+  },
+  {
+    "id": 20,
+    "topic": "Artery vs Vein Histology",
+    "highlight": "Arteries: thicker wall, more elastic & smooth muscle, maintain shape\nVeins: thinner wall, larger lumen, VALVES (prevent backflow), collapse when empty\nCapillaries: single endothelial cell layer + basement membrane (site of exchange)",
+    "mnemonic": "🧠 'Arteries = Away from heart = thick walls, Veins = toward heart = valVes'"
+  },
+  {
+    "id": 21,
+    "topic": "End Arteries",
+    "highlight": "End artery: an artery with NO anastomosis (no collateral circulation)\n→ Occlusion causes INFARCTION\nExamples: central artery of retina, coronary arteries (functional end arteries), renal arteries",
+    "mnemonic": "🧠 'End artery = End of the line → Blockage = Death of tissue'"
+  },
+  {
+    "id": 22,
+    "topic": "Lymphatic System",
+    "highlight": "Lymph drains from tissues → lymph capillaries → lymph vessels → lymph nodes → lymphatic trunks → thoracic duct (left side, drains ~75% of body) OR right lymphatic duct (drains right arm, right thorax, right head)\n→ Both drain into venous system at junction of subclavian & internal jugular veins",
+    "mnemonic": "🧠 'Right duct = Right upper quadrant of body only; Thoracic duct = Everything else'"
+  },
+  {
+    "id": 23,
+    "topic": "Lymph Node Function",
+    "highlight": "Lymph nodes:\n• Filter lymph (remove bacteria, cancer cells)\n• Site of lymphocyte proliferation (immune response)\n• Hilum: where artery enters and vein/efferent vessel exits\n• Cortex: B cells (follicles); Paracortex: T cells; Medulla: macrophages",
+    "mnemonic": "🧠 'B cells in cortex, T cells deeper (Paracortex = T cells), Macrophages in Medulla'"
+  },
+  {
+    "id": 24,
+    "topic": "Serous Membranes",
+    "highlight": "Serous membrane = parietal layer (lines cavity) + visceral layer (covers organ)\nCavities: pleural (lungs), pericardial (heart), peritoneal (abdomen)\nBetween layers: thin film of serous fluid (reduces friction)",
+    "mnemonic": "🧠 'PVF = Parietal lines the wall, Visceral covers the organ, Fluid between'"
+  },
+  {
+    "id": 25,
+    "topic": "Mucous Membranes",
+    "highlight": "Mucous membranes (mucosa) line body cavities OPEN to exterior:\n• Respiratory, GI, urinary, reproductive tracts\n• Components: epithelium + lamina propria + muscularis mucosae\n• Goblet cells secrete mucus for protection and lubrication",
+    "mnemonic": "🧠 'Mucosa = open to outside world (respiratory, GI, GU tracts)'"
+  },
+  {
+    "id": 26,
+    "topic": "Reflex Arc",
+    "highlight": "Simple reflex arc components:\n1. Receptor\n2. Afferent neuron (sensory)\n3. Interneuron (in spinal cord)\n4. Efferent neuron (motor)\n5. Effector (muscle/gland)\nMonosynaptic reflex: NO interneuron (e.g., patellar reflex)",
+    "mnemonic": "🧠 'RAIE+E' = Receptor, Afferent, Interneuron, Efferent, Effector"
+  },
+  {
+    "id": 27,
+    "topic": "Upper vs Lower Motor Neuron",
+    "highlight": "UMN (Upper Motor Neuron — brain/cord):\n→ Spasticity, hyperreflexia, + Babinski, no atrophy\nLMN (Lower Motor Neuron — anterior horn/peripheral nerve):\n→ Flaccidity, hyporeflexia, atrophy, fasciculations",
+    "mnemonic": "🧠 'UMN = Up = hyperreflexia, LMN = Low = loss of reflexes + atrophy'"
+  },
+  {
+    "id": 28,
+    "topic": "Somatic vs Visceral Pain",
+    "highlight": "Somatic pain: well-localized, sharp, from body wall/muscles/joints\nVisceral pain: poorly localized, crampy/dull, from internal organs\nReferred pain: visceral pain felt at distant somatic site (e.g., cardiac pain → left arm; diaphragm irritation → shoulder tip)",
+    "mnemonic": "🧠 'Visceral = Vague (poorly localized), Somatic = Specific (well localized)'"
+  },
+  {
+    "id": 29,
+    "topic": "Anastomoses",
+    "highlight": "Anastomosis: connection between two vessels\n→ Provides COLLATERAL CIRCULATION if one vessel is blocked\nTypes: arterial, venous, arteriovenous (AVA)\nClinically important: coronary collaterals, circle of Willis (cerebral), portal-systemic anastomoses",
+    "mnemonic": "🧠 'Anastomosis = Alternative route = insurance against blockage'"
+  },
+  {
+    "id": 30,
+    "topic": "Tissue Healing",
+    "highlight": "Primary intention: clean wound edges, minimal scarring\nSecondary intention: wound left open, granulation tissue fills gap, more scarring\nFactors impairing healing: infection, poor blood supply, diabetes, malnutrition (especially Vitamin C deficiency), steroids",
+    "mnemonic": "🧠 'Primary = Perfect closure, Secondary = Scar-forming open wound'"
+  }
+]
